@@ -1,5 +1,7 @@
 # Chapter 47
 
+{% embed url="https://open.spotify.com/episode/4pM6yz8HT1GMmWUcOxtTrg?si=fzyB2boRSgah6Im\_MLDjTw" %}
+
 Some weeks passed without bringing any change. We waited for Wemmick, and he made no sign. If I had never known him out of Little Britain, and had never enjoyed the privilege of being on a familiar footing at the castle, I might have doubted him; not so for a moment, knowing him as I did.
 
 My worldly affairs began to wear a gloomy appearance, and I was pressed for money by more than one creditor. Even I myself began to know the want of money \(I mean of ready money in my own pocket\), and to relieve it by converting some easily spared articles of jewelery into cash. But I had quite determined that it would be a heartless fraud to take more money from my patron in the existing state of my uncertain thoughts and plans. Therefore, I had sent him the unopened pocketbook by Herbert, to hold in his own keeping, and I felt a kind of satisfaction⁠—whether it was a false kind or a true, I hardly know⁠—in not having profited by his generosity since his revelation of himself.

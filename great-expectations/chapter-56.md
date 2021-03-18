@@ -1,5 +1,7 @@
 # Chapter 56
 
+{% embed url="https://open.spotify.com/episode/6UZfHwB74F4lIWmnoYq0zs?si=hc9vx\_TGSF-iA-QA6RskfA" %}
+
 He lay in prison very ill, during the whole interval between his committal for trial and the coming round of the Sessions. He had broken two ribs, they had wounded one of his lungs, and he breathed with great pain and difficulty, which increased daily. It was a consequence of his hurt that he spoke so low as to be scarcely audible; therefore he spoke very little. But he was ever ready to listen to me; and it became the first duty of my life to say to him, and read to him, what I knew he ought to hear.
 
 Being far too ill to remain in the common prison, he was removed, after the first day or so, into the infirmary. This gave me opportunities of being with him that I could not otherwise have had. And but for his illness he would have been put in irons, for he was regarded as a determined prison-breaker, and I know not what else.

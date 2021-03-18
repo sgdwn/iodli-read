@@ -1,5 +1,7 @@
 # Chapter 45
 
+{% embed url="https://open.spotify.com/episode/2LvsPboituLxrn3EyJB14V?si=JkCrylK4TTe5Jn0ZE05gUQ" %}
+
 Turning from the Temple gate as soon as I had read the warning, I made the best of my way to Fleet Street, and there got a late hackney chariot and drove to the Hummums in Covent Garden. In those times a bed was always to be got there at any hour of the night, and the chamberlain, letting me in at his ready wicket, lighted the candle next in order on his shelf, and showed me straight into the bedroom next in order on his list. It was a sort of vault on the ground floor at the back, with a despotic monster of a four-post bedstead in it, straddling over the whole place, putting one of his arbitrary legs into the fireplace and another into the doorway, and squeezing the wretched little washing-stand in quite a Divinely Righteous manner.
 
 As I had asked for a night-light, the chamberlain had brought me in, before he left me, the good old constitutional rushlight of those virtuous days⁠—an object like the ghost of a walking-cane, which instantly broke its back if it were touched, which nothing could ever be lighted at, and which was placed in solitary confinement at the bottom of a high tin tower, perforated with round holes that made a staringly wide-awake pattern on the walls. When I had got into bed, and lay there footsore, weary, and wretched, I found that I could no more close my own eyes than I could close the eyes of this foolish Argus. And thus, in the gloom and death of the night, we stared at one another.

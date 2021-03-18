@@ -1,5 +1,7 @@
 # Chapter 39
 
+{% embed url="https://open.spotify.com/episode/7pDFqagWTdAUjqcF2AiaZB?si=iXbVhRQAS6-OM289pvn53g" %}
+
 I was three-and-twenty years of age. Not another word had I heard to enlighten me on the subject of my expectations, and my twenty-third birthday was a week gone. We had left Barnard’s Inn more than a year, and lived in the Temple. Our chambers were in Garden-court, down by the river.
 
 Mr. Pocket and I had for some time parted company as to our original relations, though we continued on the best terms. Notwithstanding my inability to settle to anything⁠—which I hope arose out of the restless and incomplete tenure on which I held my means⁠—I had a taste for reading, and read regularly so many hours a day. That matter of Herbert’s was still progressing, and everything with me was as I have brought it down to the close of the last preceding chapter.

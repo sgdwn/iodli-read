@@ -1,5 +1,7 @@
 # Chapter 41
 
+{% embed url="https://open.spotify.com/episode/7kyTYLkn8nI6EUcrOht9Tr?si=qBF6tSr3TmikXmGurOcdow" %}
+
 In vain should I attempt to describe the astonishment and disquiet of Herbert, when he and I and Provis sat down before the fire, and I recounted the whole of the secret. Enough, that I saw my own feelings reflected in Herbert’s face, and not least among them, my repugnance towards the man who had done so much for me.
 
 What would alone have set a division between that man and us, if there had been no other dividing circumstance, was his triumph in my story. Saving his troublesome sense of having been “low” on one occasion since his return⁠—on which point he began to hold forth to Herbert, the moment my revelation was finished⁠—he had no perception of the possibility of my finding any fault with my good fortune. His boast that he had made me a gentleman, and that he had come to see me support the character on his ample resources, was made for me quite as much as for himself. And that it was a highly agreeable boast to both of us, and that we must both be very proud of it, was a conclusion quite established in his own mind.

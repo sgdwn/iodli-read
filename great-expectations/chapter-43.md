@@ -1,5 +1,7 @@
 # Chapter 43
 
+{% embed url="https://open.spotify.com/episode/4zPEHFstbi5ayZCUd6J62G?si=bWCTXAe0QIauej1QiCGQig" %}
+
 Why should I pause to ask how much of my shrinking from Provis might be traced to Estella? Why should I loiter on my road, to compare the state of mind in which I had tried to rid myself of the stain of the prison before meeting her at the coach office, with the state of mind in which I now reflected on the abyss between Estella in her pride and beauty, and the returned transport whom I harbored? The road would be none the smoother for it, the end would be none the better for it, he would not be helped, nor I extenuated.
 
 A new fear had been engendered in my mind by his narrative; or rather, his narrative had given form and purpose to the fear that was already there. If Compeyson were alive and should discover his return, I could hardly doubt the consequence. That Compeyson stood in mortal fear of him, neither of the two could know much better than I; and that any such man as that man had been described to be would hesitate to release himself for good from a dreaded enemy by the safe means of becoming an informer was scarcely to be imagined.

@@ -1,5 +1,7 @@
 # Chapter 51
 
+{% embed url="https://open.spotify.com/episode/5JBGueBmoWpL8EZTQisWEi?si=vEz-5D3UTiijJIcFY086kg" %}
+
 What purpose I had in view when I was hot on tracing out and proving Estella’s parentage, I cannot say. It will presently be seen that the question was not before me in a distinct shape until it was put before me by a wiser head than my own.
 
 But when Herbert and I had held our momentous conversation, I was seized with a feverish conviction that I ought to hunt the matter down⁠—that I ought not to let it rest, but that I ought to see Mr. Jaggers, and come at the bare truth. I really do not know whether I felt that I did this for Estella’s sake, or whether I was glad to transfer to the man in whose preservation I was so much concerned some rays of the romantic interest that had so long surrounded me. Perhaps the latter possibility may be the nearer to the truth.

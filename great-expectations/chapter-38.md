@@ -1,5 +1,7 @@
 # Chapter 38
 
+{% embed url="https://open.spotify.com/episode/5bbr8YXq93VgkkMcArZ9Nv?si=UapyNu2ZR\_q1lDTzPPz0Hw" %}
+
 If that staid old house near the Green at Richmond should ever come to be haunted when I am dead, it will be haunted, surely, by my ghost. O the many, many nights and days through which the unquiet spirit within me haunted that house when Estella lived there! Let my body be where it would, my spirit was always wandering, wandering, wandering, about that house.
 
 The lady with whom Estella was placed, Mrs. Brandley by name, was a widow, with one daughter several years older than Estella. The mother looked young, and the daughter looked old; the mother’s complexion was pink, and the daughter’s was yellow; the mother set up for frivolity, and the daughter for theology. They were in what is called a good position, and visited, and were visited by, numbers of people. Little, if any, community of feeling subsisted between them and Estella, but the understanding was established that they were necessary to her, and that she was necessary to them. Mrs. Brandley had been a friend of Miss Havisham’s before the time of her seclusion.

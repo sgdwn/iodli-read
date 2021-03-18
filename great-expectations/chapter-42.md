@@ -1,5 +1,7 @@
 # Chapter 42
 
+{% embed url="https://open.spotify.com/episode/6LnPTHx0pPES3TLsvGipJe?si=e3RCo3hoSbmgkR1vxqM0uA" %}
+
 “Dear boy and Pip’s comrade. I am not a going fur to tell you my life like a song, or a storybook. But to give it you short and handy, I’ll put it at once into a mouthful of English. In jail and out of jail, in jail and out of jail, in jail and out of jail. There, you’ve got it. That’s _my_ life pretty much, down to such times as I got shipped off, arter Pip stood my friend.
 
 “I’ve been done everything to, pretty well⁠—except hanged. I’ve been locked up as much as a silver tea-kittle. I’ve been carted here and carted there, and put out of this town, and put out of that town, and stuck in the stocks, and whipped and worried and drove. I’ve no more notion where I was born than you have⁠—if so much. I first become aware of myself down in Essex, a thieving turnips for my living. Summun had run away from me⁠—a man⁠—a tinker⁠—and he’d took the fire with him, and left me wery cold.

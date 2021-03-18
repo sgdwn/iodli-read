@@ -1,5 +1,7 @@
 # Chapter 57
 
+{% embed url="https://open.spotify.com/episode/5ktTv7uVMiuLUCEwpdbObX?si=xZO7cUYtRmmNnwywckfplA" %}
+
 Now that I was left wholly to myself, I gave notice of my intention to quit the chambers in the Temple as soon as my tenancy could legally determine, and in the meanwhile to underlet them. At once I put bills up in the windows; for, I was in debt, and had scarcely any money, and began to be seriously alarmed by the state of my affairs. I ought rather to write that I should have been alarmed if I had had energy and concentration enough to help me to the clear perception of any truth beyond the fact that I was falling very ill. The late stress upon me had enabled me to put off illness, but not to put it away; I knew that it was coming on me now, and I knew very little else, and was even careless as to that.
 
 For a day or two, I lay on the sofa, or on the floor⁠—anywhere, according as I happened to sink down⁠—with a heavy head and aching limbs, and no purpose, and no power. Then there came, one night which appeared of great duration, and which teemed with anxiety and horror; and when in the morning I tried to sit up in my bed and think of it, I found I could not do so.

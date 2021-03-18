@@ -1,5 +1,7 @@
 # Chapter 40
 
+{% embed url="https://open.spotify.com/episode/0rMlUCOHeB64gnKPiECSvd?si=N10nI0\_8R32zTlPAr969cw" %}
+
 It was fortunate for me that I had to take precautions to ensure \(so far as I could\) the safety of my dreaded visitor; for, this thought pressing on me when I awoke, held other thoughts in a confused concourse at a distance.
 
 The impossibility of keeping him concealed in the chambers was self-evident. It could not be done, and the attempt to do it would inevitably engender suspicion. True, I had no Avenger in my service now, but I was looked after by an inflammatory old female, assisted by an animated ragbag whom she called her niece, and to keep a room secret from them would be to invite curiosity and exaggeration. They both had weak eyes, which I had long attributed to their chronically looking in at keyholes, and they were always at hand when not wanted; indeed that was their only reliable quality besides larceny. Not to get up a mystery with these people, I resolved to announce in the morning that my uncle had unexpectedly come from the country.

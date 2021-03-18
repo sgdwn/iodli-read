@@ -1,5 +1,7 @@
 # Chapter 50
 
+{% embed url="https://open.spotify.com/episode/4xPAqoStlbjBxzIx7SYJDm?si=9HBzBTukTC6dI2i2rNx11w" %}
+
 My hands had been dressed twice or thrice in the night, and again in the morning. My left arm was a good deal burned to the elbow, and, less severely, as high as the shoulder; it was very painful, but the flames had set in that direction, and I felt thankful it was no worse. My right hand was not so badly burnt but that I could move the fingers. It was bandaged, of course, but much less inconveniently than my left hand and arm; those I carried in a sling; and I could only wear my coat like a cloak, loose over my shoulders and fastened at the neck. My hair had been caught by the fire, but not my head or face.
 
 When Herbert had been down to Hammersmith and seen his father, he came back to me at our chambers, and devoted the day to attending on me. He was the kindest of nurses, and at stated times took off the bandages, and steeped them in the cooling liquid that was kept ready, and put them on again, with a patient tenderness that I was deeply grateful for.
