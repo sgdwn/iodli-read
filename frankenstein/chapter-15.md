@@ -1,5 +1,7 @@
 # Chapter 15
 
+{% embed url="https://open.spotify.com/episode/04uxUfeA7k217EoMFZbELl?si=3TVuzPk0SCqI7DKDRZSP3A" %}
+
 “Such was the history of my beloved cottagers. It impressed me deeply. I learned, from the views of social life which it developed, to admire their virtues, and to deprecate the vices of mankind.
 
 “As yet I looked upon crime as a distant evil; benevolence and generosity were ever present before me, inciting within me a desire to become an actor in the busy scene where so many admirable qualities were called forth and displayed. But, in giving an account of the progress of my intellect, I must not omit a circumstance which occurred in the beginning of the month of August of the same year.

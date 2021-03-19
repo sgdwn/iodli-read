@@ -107,11 +107,5 @@
   * [Chapter 22](frankenstein/chapter-22.md)
   * [Chapter 23](frankenstein/chapter-23.md)
   * [Chapter 24](frankenstein/chapter-24.md)
-  * [Chapter 25](frankenstein/chapter-25.md)
-  * [Chapter 26](frankenstein/chapter-26.md)
-  * [Untitled](frankenstein/untitled-5.md)
-  * [Untitled](frankenstein/untitled-4.md)
-  * [Untitled](frankenstein/untitled-3.md)
-  * [Untitled](frankenstein/untitled-2.md)
-  * [Untitled](frankenstein/untitled-1.md)
+  * [Walton, in continuation](frankenstein/chapter-25.md)
 
