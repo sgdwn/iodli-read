@@ -1,6 +1,6 @@
 # Chapter 23
 
-
+{% embed url="https://open.spotify.com/episode/4a6ifVUdrXoz0miX2YSfbf?si=RvkB0ArFS1S8hhBHU9SyNA" %}
 
 A splendid Midsummer shone over England: skies so pure, suns so radiant as were then seen in long succession, seldom favour even singly, our wave-girt land. It was as if a band of Italian days had come from the South, like a flock of glorious passenger birds, and lighted to rest them on the cliffs of Albion. The hay was all got in; the fields round Thornfield were green and shorn; the roads white and baked; the trees were in their dark prime; hedge and wood, full-leaved and deeply tinted, contrasted well with the sunny hue of the cleared meadows between.
 

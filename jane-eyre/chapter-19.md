@@ -1,6 +1,6 @@
 # Chapter 19
 
-
+{% embed url="https://open.spotify.com/episode/02f8EqhPAbCNbQWf3nvJl9?si=YGigkoS\_Sd2MeDKKNLBvBg" %}
 
 The library looked tranquil enough as I entered it, and the Sibyl⁠—if Sibyl she were⁠—was seated snugly enough in an easy-chair at the chimney-corner. She had on a red cloak and a black bonnet: or rather, a broad-brimmed gipsy hat, tied down with a striped handkerchief under her chin. An extinguished candle stood on the table; she was bending over the fire, and seemed reading in a little black book, like a prayerbook, by the light of the blaze: she muttered the words to herself, as most old women do, while she read; she did not desist immediately on my entrance: it appeared she wished to finish a paragraph.
 

@@ -1,6 +1,6 @@
 # Chapter 6
 
-
+{% embed url="https://open.spotify.com/episode/7Hl0aQbshWUu0HsYuadLr9?si=9KWf7hVvS0aA00qLIt95JQ" %}
 
 The next day commenced as before, getting up and dressing by rushlight; but this morning we were obliged to dispense with the ceremony of washing; the water in the pitchers was frozen. A change had taken place in the weather the preceding evening, and a keen northeast wind, whistling through the crevices of our bedroom windows all night long, had made us shiver in our beds, and turned the contents of the ewers to ice.
 

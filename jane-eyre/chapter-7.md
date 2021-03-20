@@ -1,6 +1,6 @@
 # Chapter 7
 
-
+{% embed url="https://open.spotify.com/episode/5pYdmedEKJo4mHeeZ5oiGi?si=nDS4ZPERSjWLZcXHpCgm4Q" %}
 
 My first quarter at Lowood seemed an age; and not the golden age either; it comprised an irksome struggle with difficulties in habituating myself to new rules and unwonted tasks. The fear of failure in these points harassed me worse than the physical hardships of my lot; though these were no trifles.
 

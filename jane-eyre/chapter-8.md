@@ -1,6 +1,6 @@
 # Chapter 8
 
-
+{% embed url="https://open.spotify.com/episode/7Ht4Q9uQPDWUXBv4yxUQfL?si=E5\_W-rYhT6yKpeBIJjM4mw" %}
 
 Ere the half-hour ended, five o’clock struck; school was dismissed, and all were gone into the refectory to tea. I now ventured to descend: it was deep dusk; I retired into a corner and sat down on the floor. The spell by which I had been so far supported began to dissolve; reaction took place, and soon, so overwhelming was the grief that seized me, I sank prostrate with my face to the ground. Now I wept: Helen Burns was not here; nothing sustained me; left to myself I abandoned myself, and my tears watered the boards. I had meant to be so good, and to do so much at Lowood: to make so many friends, to earn respect and win affection. Already I had made visible progress: that very morning I had reached the head of my class; Miss Miller had praised me warmly; Miss Temple had smiled approbation; she had promised to teach me drawing, and to let me learn French, if I continued to make similar improvement two months longer: and then I was well received by my fellow-pupils; treated as an equal by those of my own age, and not molested by any; now, here I lay again crushed and trodden on; and could I ever rise more?
 

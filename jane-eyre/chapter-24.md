@@ -1,6 +1,6 @@
 # Chapter 24
 
-
+{% embed url="https://open.spotify.com/episode/03UJvuOcw5rdCQ13WimpkV?si=PiuTU2WYRoiyoeDCUY5RgA" %}
 
 As I rose and dressed, I thought over what had happened, and wondered if it were a dream. I could not be certain of the reality till I had seen Mr. Rochester again, and heard him renew his words of love and promise.
 

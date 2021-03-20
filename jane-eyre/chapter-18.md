@@ -1,6 +1,6 @@
 # Chapter 18
 
-
+{% embed url="https://open.spotify.com/episode/7hwt9qyIB4PTSL0lefmHTy?si=yID\_T2wCRHupV0asz\_jHXQ" %}
 
 Merry days were these at Thornfield Hall; and busy days too: how different from the first three months of stillness, monotony, and solitude I had passed beneath its roof! All sad feelings seemed now driven from the house, all gloomy associations forgotten: there was life everywhere, movement all day long. You could not now traverse the gallery, once so hushed, nor enter the front chambers, once so tenantless, without encountering a smart lady’s-maid or a dandy valet.
 

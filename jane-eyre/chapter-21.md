@@ -1,6 +1,6 @@
 # Chapter 21
 
-
+{% embed url="https://open.spotify.com/episode/23x0MjWZCT5aEFOmqNKGPZ?si=Zs3jnxmBRFqqH8ILEvQI4A" %}
 
 Presentiments are strange things! and so are sympathies; and so are signs; and the three combined make one mystery to which humanity has not yet found the key. I never laughed at presentiments in my life, because I have had strange ones of my own. Sympathies, I believe, exist \(for instance, between far-distant, long-absent, wholly estranged relatives asserting, notwithstanding their alienation, the unity of the source to which each traces his origin\) whose workings baffle mortal comprehension. And signs, for aught we know, may be but the sympathies of Nature with man.
 

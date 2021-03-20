@@ -1,6 +1,6 @@
 # Chapter 35
 
-
+{% embed url="https://open.spotify.com/episode/1xpmEK4ddqPNUtwpyy6mHV?si=dZr7pfnwSxOQ-ysdVQaR4Q" %}
 
 He did not leave for Cambridge the next day, as he had said he would. He deferred his departure a whole week, and during that time he made me feel what severe punishment a good yet stern, a conscientious yet implacable man can inflict on one who has offended him. Without one overt act of hostility, one upbraiding word, he contrived to impress me momently with the conviction that I was put beyond the pale of his favour.
 

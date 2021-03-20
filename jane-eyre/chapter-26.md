@@ -1,6 +1,6 @@
 # Chapter 26
 
-
+{% embed url="https://open.spotify.com/episode/0GMe1egjgaIGzLwO4K28h0?si=eGaacJEuQVa8JT1DZZSzog" %}
 
 Sophie came at seven to dress me: she was very long indeed in accomplishing her task; so long that Mr. Rochester, grown, I suppose, impatient of my delay, sent up to ask why I did not come. She was just fastening my veil \(the plain square of blond after all\) to my hair with a brooch; I hurried from under her hands as soon as I could.
 

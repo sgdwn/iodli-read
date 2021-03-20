@@ -1,6 +1,6 @@
 # Chapter 34
 
-
+{% embed url="https://open.spotify.com/episode/4ptuQxV8h3ESD9oTdbs7Ho?si=l5r8ud3GQu2dbM0i4KNHvQ" %}
 
 It was near Christmas by the time all was settled: the season of general holiday approached. I now closed Morton school, taking care that the parting should not be barren on my side. Good fortune opens the hand as well as the heart wonderfully; and to give somewhat when we have largely received, is but to afford a vent to the unusual ebullition of the sensations. I had long felt with pleasure that many of my rustic scholars liked me, and when we parted, that consciousness was confirmed: they manifested their affection plainly and strongly. Deep was my gratification to find I had really a place in their unsophisticated hearts: I promised them that never a week should pass in future that I did not visit them, and give them an hour’s teaching in their school.
 

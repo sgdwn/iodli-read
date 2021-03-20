@@ -1,6 +1,6 @@
 # Chapter 16
 
-
+{% embed url="https://open.spotify.com/episode/0COhERmSo2ewFcAY87Osie?si=bo9xbSUQQEiavnhs-mXt7g" %}
 
 I both wished and feared to see Mr. Rochester on the day which followed this sleepless night: I wanted to hear his voice again, yet feared to meet his eye. During the early part of the morning, I momentarily expected his coming; he was not in the frequent habit of entering the schoolroom, but he did step in for a few minutes sometimes, and I had the impression that he was sure to visit it that day.
 
